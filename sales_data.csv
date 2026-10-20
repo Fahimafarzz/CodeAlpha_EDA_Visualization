@@ -1,0 +1,16 @@
+Product,Category,Sales,Quantity,Region
+Laptop,Electronics,55000,2,South
+Phone,Electronics,30000,3,North
+Chair,Furniture,8000,4,South
+Table,Furniture,15000,2,West
+Headphones,Electronics,5000,5,East
+Laptop,Electronics,60000,3,South
+Phone,Electronics,35000,4,North
+Chair,Furniture,9000,5,West
+Table,Furniture,18000,3,East
+Headphones,Electronics,6000,6,South
+Laptop,Electronics,58000,2,North
+Phone,Electronics,32000,3,South
+Chair,Furniture,8500,4,East
+Table,Furniture,16000,2,West
+Headphones,Electronics,5500,5,South
